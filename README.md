@@ -1,2 +1,2 @@
 # 1st-project (GYM)
-My first website Using HTML and a bit of CSS. The  
+My first website Using HTML and a bit of CSS.
